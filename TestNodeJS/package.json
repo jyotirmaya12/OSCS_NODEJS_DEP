@@ -18,6 +18,7 @@
   "dependencies": {
     "OSCS_NODEJS": "file:../../../../Users/jkhuntia.ORADEV/git/oscs/OSCS_NODEJS",
     "grunt": "^1.0.3",
-    "minimist": "^1.2.0"
+    "minimist": "^1.2.0",
+	"request": "^2.70.0"
   }
 }
